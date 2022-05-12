@@ -41,18 +41,6 @@ body {
        text-align: center;
 }
 
-.heading, .parag {
-       margin-top: 0;
-}
-
-.card .icon {
-       transform: translateX(500px);
-}
-
-.card .icon svg {
-       color: #fff;
-}
-
 .attribution {
   font-size: 11px;
   text-align: center;
